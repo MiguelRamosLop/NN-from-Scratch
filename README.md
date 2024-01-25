@@ -14,8 +14,8 @@ The initial implementation includes a basic neural network architecture for digi
 Improvements:
 - Hyperparameter tuning with adaptive learning rate scheduling.
 - Kaiming initialization for improving weiths initialization.
-- L2 regularization to prevent overfitting.
+- Applying James-Stein Paradox statistical phenomenon basics and L2 regularization technique to prevent overfitting.
 - Mini-batch gradient descent for improved efficiency.
 
 ### NN Workflow Overview
-![Texto alternativo](NN%20workflow%20overview.jpg)
+![Workflow Overview](NN%20workflow%20overview.jpg)
